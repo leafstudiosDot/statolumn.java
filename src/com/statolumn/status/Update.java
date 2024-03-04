@@ -1,5 +1,6 @@
-package com.statolumn;
+package com.statolumn.status;
 
+import com.statolumn.Client;
 import com.statolumn.media.Media;
 
 public class Update {
